@@ -19,7 +19,7 @@ const ropa = [
   {
     id: 1,
     name: 'Ropa Mujer',
-    Text: 'REMERA ROCKYS 5',
+    Text: 'REMERA FACHERA 5',
     TextDos: '3 cuotas de $2000',
     precio: '$6000',
     img: "./Imagenes/card1.jpg",
@@ -27,7 +27,7 @@ const ropa = [
   {
     id: 2,
     name: 'Ropa Hombre',
-    Text: 'REMERA ROCKYS 4',
+    Text: 'REMERA FACHERA 4',
     TextDos: '3 cuotas de $2000',
     precio: '$5000',
     img: "./Imagenes/card2.jpg",
@@ -35,7 +35,7 @@ const ropa = [
   {
     id: 3,
     name: 'Ropa Todo',
-    Text: 'REMERA ROCKYS 3',
+    Text: 'REMERA FACHERA 3',
     TextDos: '3 cuotas de $2000',
     precio: '$3000',
     img: "./Imagenes/card3.jpg",
@@ -43,7 +43,7 @@ const ropa = [
   {
     id: 4,
     name: 'Ropa Mujer',
-    Text: 'REMERA ROCKYS 3',
+    Text: 'REMERA FACHERA 3',
     TextDos: '3 cuotas de $2000',
     precio: '$5000',
     img: "./Imagenes/card1.jpg",
@@ -51,7 +51,7 @@ const ropa = [
   {
     id: 5,
     name: 'Ropa Mujer',
-    Text: 'REMERA ROCKYS 2',
+    Text: 'REMERA FACHERA 2',
     TextDos: '3 cuotas de $2000',
     precio: '$6000',
     img: "./Imagenes/card1.jpg",
@@ -59,7 +59,7 @@ const ropa = [
   {
     id: 6,
     name: 'Ropa Hombre',
-    Text: 'REMERA ROCKYS 8',
+    Text: 'REMERA FACHERA 8',
     TextDos: '3 cuotas de $2000',
     precio: '$4000',
     img: "./Imagenes/card2.jpg",
@@ -67,7 +67,7 @@ const ropa = [
   {
     id: 7,
     name: 'Ropa Todo',
-    Text: 'REMERA ROCKYS 9',
+    Text: 'REMERA FACHERA 9',
     TextDos: '3 cuotas de $2000',
     precio: '$6000',
     img: "./Imagenes/card3.jpg",
@@ -75,7 +75,7 @@ const ropa = [
   {
     id: 8,
     name: 'Ropa Mujer',
-    Text: 'REMERA ROCKYS 10',
+    Text: 'REMERA FACHERA 10',
     TextDos: '3 cuotas de $2000',
     precio: '$6000',
     img: "./Imagenes/card1.jpg",
